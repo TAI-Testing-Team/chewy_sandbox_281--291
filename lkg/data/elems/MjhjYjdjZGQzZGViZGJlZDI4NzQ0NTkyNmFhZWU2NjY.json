@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "Dhe+ejpKhhR7ZhdVH1BzkQ==\n", 
+    "height": 38, 
+    "hier_level": 0, 
+    "human_hash": "li_X523_Y105_W576_H38", 
+    "human_readable": "li_523_105_576_38_li_ffffffffffffffffffffefff03ff03ff03ff03ff07ffffffffffffffffffffff_599d9d411a7fdd81e4fef04c17f50ad7", 
+    "image_path": "MjhjYjdjZGQzZGViZGJlZDI4NzQ0NTkyNmFhZWU2NjY.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sfw-search__suggestions-item", 
+                "role": "option"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(51, 51, 51)", 
+            "cssClass": "sfw-search__suggestions-item", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 38, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "purina pro plan for cats", 
+            "type": "", 
+            "value": 0, 
+            "width": 576, 
+            "x": 523, 
+            "xPercent": 27.239583333333332, 
+            "y": 105, 
+            "yPercent": 2.544220983765447
+        }, 
+        "location": {
+            "x": 523, 
+            "y": 105
+        }, 
+        "size": {
+            "height": 38, 
+            "width": 576
+        }, 
+        "tag_name": "li", 
+        "text": "purina pro plan for cats"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "42eb863f321f13eca47b626ac71e318f", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "purina pro plan for cats", 
+    "transformed": true, 
+    "width": 576, 
+    "x": 523, 
+    "y": 105
+}

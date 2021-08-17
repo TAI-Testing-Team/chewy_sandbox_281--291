@@ -1,0 +1,77 @@
+{
+    "behavior": "", 
+    "checkable": false, 
+    "class": "li", 
+    "clickable": false, 
+    "content-desc": "", 
+    "enabled": false, 
+    "focusable": false, 
+    "focused": false, 
+    "hash": "PV56coJ6MCOClN6lFQnoEw==\n", 
+    "height": 38, 
+    "hier_level": 0, 
+    "human_hash": "li_X523_Y219_W576_H38", 
+    "human_readable": "li_523_219_576_38_li_ffffffffffffffffffff9fff0fff0fff0fff0fff1fffbfffffffffffffffffff_036a85b76212a32b5e838b1cb586b043", 
+    "image_path": "YTM1ODU1YmYxODYzZmJlZTFkM2Y5ZjZmMGNiYzRhODc.png", 
+    "index": -1, 
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sfw-search__suggestions-item", 
+                "role": "option"
+            }, 
+            "background-color": "rgba(0, 0, 0, 0)", 
+            "class": "li", 
+            "color": "rgb(51, 51, 51)", 
+            "cssClass": "sfw-search__suggestions-item", 
+            "domLevel": 9, 
+            "flags": {
+                "checkable": false, 
+                "clickable": false, 
+                "enabled": false, 
+                "focusable": false, 
+                "focused": false, 
+                "scrollable": false
+            }, 
+            "font-family": "Roboto, \"Franklin Gothic Medium\", Tahoma, sans-serif", 
+            "font-weight": "400", 
+            "fontSize": 16, 
+            "height": 38, 
+            "identifier": "", 
+            "is-focused": false, 
+            "is-hidden": false, 
+            "name": "", 
+            "tagName": "li", 
+            "text": "wet dog food", 
+            "type": "", 
+            "value": 0, 
+            "width": 576, 
+            "x": 523, 
+            "xPercent": 27.239583333333332, 
+            "y": 219, 
+            "yPercent": 5.306518051853646
+        }, 
+        "location": {
+            "x": 523, 
+            "y": 219
+        }, 
+        "size": {
+            "height": 38, 
+            "width": 576
+        }, 
+        "tag_name": "li", 
+        "text": "wet dog food"
+    }, 
+    "is_transformed": true, 
+    "package": "", 
+    "password": false, 
+    "resource-id": "", 
+    "screen_hash": "1e9de620b0975e26bb3361c5dfee410d", 
+    "scrollable": false, 
+    "tag_name": "li", 
+    "text": "wet dog food", 
+    "transformed": true, 
+    "width": 576, 
+    "x": 523, 
+    "y": 219
+}
